@@ -1,11 +1,11 @@
 # Hi there, I'm Drishti Kundra 👋 
 
 
-## I'm a Learner, Developer, and an IT Intern !!
+## I'm a student of Technology !!
 
-- 🌱 I’m currently learning MERN stack.
-- 🥅 2024 Goals: Explore more about myself.
-- ⚡ Fun fact: I am a fitness freak.
+- 🌱 Currently upskilling myself in MERN stack development.
+- 🥅 2024 Goals: Explore more about the ever changing surroundings to become a player in the game of LIFE.
+- ⚡ Fun fact: I am a fitness enthusiast, badminton player, swimmer.
 
 
 ### Languages and Tools:
